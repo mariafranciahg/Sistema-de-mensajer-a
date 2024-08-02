@@ -30,6 +30,11 @@ flex-basis: 75%;
     font-size: 1.15rem;
     color: #444749;
 }
+ 
+.principal h1 {
+    margin: 1.2rem 0;
+    font-size: 2rem;
+}
 
 .contactos {
     display: flex;
@@ -103,6 +108,7 @@ button{
     color: white; 
     padding: 1rem 3rem;  
     font-weight: 600;
+    font-size: 1rem;
 }
 
 button:hover {
